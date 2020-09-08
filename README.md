@@ -14,6 +14,7 @@ https://www.anaconda.com/download/
 ### Introduction in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/ValRCS-LU_PySem_2020_2/master/Python Introduction.ipynb)
 
+
 ### Binder(hosted Jupyter notebooks) Beta
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ValRCS/ValRCS-LU_PySem_2020_2/master)
 * Binder allows you to run Jupyter notebooks in the cloud

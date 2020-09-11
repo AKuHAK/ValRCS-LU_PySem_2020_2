@@ -37,7 +37,7 @@ https://www.anaconda.com/download/
 
 ## Course Requirements
 
-* Individual/Group project(program) in Python - 6 points
+* Individual/Group project(program) in Python - max 7 points
 ### Presentation/Participation - 4 points max
 * Presentation on Python library 1-3 points each (2 presentations possible)
 * Participation/attendance bonus 1-2 points (50% attendance required)

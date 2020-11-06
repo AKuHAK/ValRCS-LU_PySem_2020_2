@@ -1,0 +1,8 @@
+scrapy shell "https://www.ss.com/lv/transport/cars/audi/"
+
+scrapy runspider sscom_spider.py -o output.json -t json
+
+scrapy crawl sscom -o sscom.json
+
+scrapy crawl --nolog sscom -o - -t json
+
